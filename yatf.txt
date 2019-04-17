@@ -12,3 +12,5 @@ Feature has a new line here.
 But only feature! No?
 
 This is feature1 + master?
+
+commit 1 bottom
