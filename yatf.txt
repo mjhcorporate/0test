@@ -3,3 +3,5 @@ line 2
 line 3
 this is quickly getting boring
 I guess I could have written a webpage here as well!
+
+Feature has a new line here.
