@@ -7,6 +7,8 @@ line 3
 this is quickly getting boring
 I guess I could have written a webpage here as well!
 
+commit 2 middle
+
 Feature has a new line here.
 
 But only feature! No?
