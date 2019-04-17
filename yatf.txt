@@ -11,4 +11,4 @@ Feature has a new line here.
 
 But only feature! No?
 
-This is master!
+This is feature1 + master?
